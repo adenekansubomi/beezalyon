@@ -202,7 +202,7 @@ h6 {
     padding: 10px 20px;
     font-size: 15px;
     text-transform: none;
-    color: var(--nav-dropdown-color);
+    color: var(--nav-mobile-background-color);
   }
 
   .navmenu .dropdown ul a i {
